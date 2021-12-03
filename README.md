@@ -17,4 +17,5 @@ If you don't have a working IDE kindly follow this [link](https://docs.anaconda.
 - The python script will process the data based on your specifications and return the result of the analysis.
     
 ## Authors and acknowledgment
+- Udacity NanoDegree Program
 - Book Title: Python Data Science Handbook [Author: Jake VanderPlas]
